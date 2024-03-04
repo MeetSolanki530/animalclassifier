@@ -1,6 +1,6 @@
 import streamlit as st
 import os
-import cv2
+# import cv2
 import numpy as np
 from tensorflow.keras.models import load_model
 
@@ -43,3 +43,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
