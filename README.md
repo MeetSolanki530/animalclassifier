@@ -1,1 +1,1 @@
-# animalclassifier
+# Animal_Domesticity_Classifier
